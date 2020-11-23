@@ -8,9 +8,7 @@
     "react-dom": "^16.14.0",
     "react-scripts": "^3.4.3"
   },
-  "devDependencies": {
-    "build": "react-scripts-build"
-  },
+  "devDependencies": {},
   "scripts": {
     "start": "react-scripts start"
   },
